@@ -91,7 +91,7 @@ try {
 }
 
 // FizzBuzz test cases
-console.log("-------FizzBuzz test cases------\n")
+console.log("\n-------FizzBuzz test cases------\n")
 fizzBuzz(100);
 
 // Edge case
@@ -103,7 +103,7 @@ try {
 }
 
 // Even or Odd test cases
-console.log("-------Even or Odd test cases------\n")
+console.log("\n-------Even or Odd test cases------\n")
 console.log("2: ", evenOrOdd(2));
 console.log("33: ", evenOrOdd(3));
 console.log("44: ", evenOrOdd(4));
